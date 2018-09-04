@@ -1,0 +1,915 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paid Downloads\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-01 19:07+0500\n"
+"PO-Revision-Date: 2012-03-22 18:47+0100\n"
+"Last-Translator: Wolforg <contact@wolforg.eu>\n"
+"Language-Team: Wolforg <contact@wolforg.eu>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /media/wolforg/EURL_Wolforg/Sites/traductions/Trads/Extensions/paid-downloads\n"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:51
+msgid "Product download details"
+msgstr "Détails du produit en téléchargement"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:52
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:54
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:56
+msgid "Dear {first_name},"
+msgstr "Cher {first_name},"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:52
+msgid "Thank you for purchasing {product_title}. Click the link below to download the product:"
+msgstr "Merci d'avoir commandé le produit {product_title}. Cliquez sur le lien suivant pour le télécharger :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:52
+msgid "Please remember that this link is valid for {download_link_lifetime} day(s) only."
+msgstr "Merci de vous souvenir que ce lien est valide pour {download_link_lifetime} jour(s) seulement."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:52
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:54
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:56
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1369
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1384
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1485
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1500
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1590
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1605
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1623
+msgid "Thanks,"
+msgstr "Merci,"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:54
+msgid "Thank you for purchasing {product_title}. We will review your payment transaction and contact you as soon as possible (maximum 24 hours). Sorry for the inconvenience."
+msgstr "Merci d'avoir commandé  {product_title}. Nous allons réviser votre transaction de paiement et vous contacter dès que possible (maximum 24 heures). Désolé pour ce désagrément."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:55
+msgid "Payment was not completed"
+msgstr "Le règlement n'est pas complet"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:56
+msgid "We would like to inform you that we have received your payment for {product_title}."
+msgstr "Nous voulons vous informer que vous avez reçu un paiement pour {product_title}."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:56
+msgid "The payment status is currently: {payment_status}"
+msgstr "Le statut de ce paiement est actuellement : {payment_status}"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:56
+msgid "Once the payment is completed and cleared, we will send the download details to you by e-mail."
+msgstr "Une fois le paiement complété, nous vous enverrons les détails de téléchargement par email."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:221
+msgid "Select at least one payment method"
+msgstr "Choisissez au moins une méthode de paiement"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:223
+msgid "PayPal ID must be valid e-mail address or Merchant ID"
+msgstr "L'ID PayPal doit être une adresse email valide ou un ID Marchand"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:226
+msgid "AlertPay ID must be valid e-mail address"
+msgstr "L'ID AlertPay doit être une adresse email valide"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:229
+msgid "InterKassa Shop ID is required"
+msgstr "L'ID InterKassa Shop est requis"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:230
+msgid "InterKassa Secret Key is required"
+msgstr "La clé secrète InterKassa Shop est requise"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:232
+msgid "E-mail for notifications must be valid e-mail address"
+msgstr "Les adresses pour les notifications par email doivent être valides"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:233
+msgid "Sender e-mail must be valid e-mail address"
+msgstr "L'adresse email de l'expéditeur doit être valide"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:234
+msgid "Sender name is too short"
+msgstr "Le nom de l'expéditeur est trop court"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:235
+msgid "Successful purchasing e-mail subject must contain at least 3 characters"
+msgstr "Un sujet d'email de commande doit contenir au moins 3 caractères"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:236
+msgid "Successful purchasing e-mail subject must contain maximum 64 characters"
+msgstr "Un sujet d'email de commande doit contenir au maximum 64 caractères"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:237
+msgid "Successful purchasing e-mail body must contain at least 3 characters"
+msgstr "Un corps d'email de commande doit contenir au moins 3 caractères"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:238
+msgid "Failed purchasing e-mail subject must contain at least 3 characters"
+msgstr "Echec de commande, le sujet de l'email doit contenir au moins 3 caractères"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:239
+msgid "Failed purchasing e-mail subject must contain maximum 64 characters"
+msgstr "Echec de commande, le sujet de l'email doit contenir au maximum 64 caractères"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:240
+msgid "Failed purchasing e-mail body must contain at least 3 characters"
+msgstr "Echec de commande, le corps de l'email doit contenir au moins 3 caractères"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:241
+msgid "Download link lifetime must be valid integer value in range [1...365]"
+msgstr "Download link lifetime must be valid integer value in range [1...365]"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:262
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:263
+msgid "Settings"
+msgstr "Paramètres"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:270
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:271
+msgid "Files"
+msgstr "Fichiers"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:278
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:279
+msgid "Add File"
+msgstr "Ajout de fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:286
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:287
+msgid "Temporary Links"
+msgstr "Liens Temporaires"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:294
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:295
+msgid "Add Link"
+msgstr "Ajout de lien"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:302
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:303
+msgid "Transactions"
+msgstr "Transactions"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:317
+msgid "The following error(s) exists:"
+msgstr "Le(s) erreur(s) suivantes ont eu lieu :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:320
+msgid "Plugin settings successfully <strong>updated</strong>."
+msgstr "Paramètres de l'extension <strong>mis à jour</strong> avec succès"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:329
+msgid "Paid Downloads - Settings"
+msgstr "Paid Downloads - Paramètres"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:337
+msgid "Click to hide this box"
+msgstr "Cliquez pour cacher la boîte"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:337
+msgid "Hide"
+msgstr "Cacher"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:338
+msgid "Support further development"
+msgstr "Supporter les améliorations à venir"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:340
+msgid "You are happy with this plugin and want to help make it even better? Donate small amount and support further development. All donations are used to improve this plugin!"
+msgstr "Vous êtes heureux avec cette extension et vous voulez aider à la rendre meilleure? Faîtes un petit don pour les versions futures. Tous les dons seront utilisés pour cette extension!"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:361
+msgid "General Settings"
+msgstr "Paramètres Généraux"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:365
+msgid "E-mail for notifications"
+msgstr "Email pour les notificiations"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:366
+msgid "Please enter e-mail address. All alerts about completed/failed payments are sent to this e-mail address."
+msgstr "Merci d'entrer une adresse email. Toutes les alertes de règlements complets ou échoués seront envoyées à cette adresse."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:369
+msgid "Sender name"
+msgstr "Nom de l'expéditeur"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:370
+msgid "Please enter sender name. All messages to buyers are sent using this name as \"FROM:\" header value."
+msgstr "Merci d'entrer un nom d'expéditeur. Tous les messages aux acheteurs seront envoyés en utilisant ce nom comme valeur d'en-tête \"FROM\" :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:373
+msgid "Sender e-mail"
+msgstr "Email de l'expéditeur"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:374
+msgid "Please enter sender e-mail. All messages to buyers are sent using this e-mail as \"FROM:\" header value."
+msgstr "Merci d'entrer l'email de l'expéditeur"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:377
+msgid "Successful purchasing e-mail subject"
+msgstr "Sujet pour l'email de notification de commande"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:378
+msgid "In case of successful and cleared payment, your customers receive e-mail message about successful purchasing. This is subject field of the message."
+msgstr "En cas de succès de paiement, vos clients recevront un email concernant le succès de leur commande. Ceci est le champ sujet du message."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:381
+msgid "Successful purchasing e-mail body"
+msgstr "Corps de l'email de succès"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:382
+msgid "This e-mail message is sent to your customers in case of successful and cleared payment. You can use the following keywords: {first_name}, {last_name}, {payer_email}, {product_title}, {product_price}, {product_currency}, {download_link}, {download_link_lifetime}, {license_info}."
+msgstr "Ce message est envoyé à vos clients en cas de succès de paiement. Vous pouvez utiliser les balises suivantes :  {first_name}, {last_name}, {payer_email}, {product_title}, {product_price}, {product_currency}, {download_link}, {download_link_lifetime}, {license_info}."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:385
+msgid "Non-verified payers"
+msgstr "Clients non-vérifiés"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:386
+msgid "In case this option enabled, you can set different <strong>successful purchasing e-mail body</strong> for non-verified payers."
+msgstr "Si vous activez cette option, vous pouvez définir différents <strong>corps de message de succès</strong> pour les clients non-vérifiés"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:389
+msgid "Successful purchasing e-mail body (for non-verified payers)"
+msgstr "Corps du message de commande (pour les clients non-vérifiés)"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:390
+msgid "This e-mail message is sent to your customers in case of successful and cleared payment in case if they paid using non-verified PayPal account. You can use the following keywords: {first_name}, {last_name}, {payer_email}, {product_title}, {product_price}, {product_currency}."
+msgstr "Ce message est envoyé à vos clients ne possédant pas de compte PayPal vérifié si le règlement est réussi. Vous pouvez utiliser les balises suivantes :  {first_name}, {last_name}, {payer_email}, {product_title}, {product_price}, {product_currency}."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:393
+msgid "Failed purchasing e-mail subject"
+msgstr "Sujet du message d'échec de la commande"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:394
+msgid "In case of pending, non-cleared or fake payment, your customers receive e-mail message about that. This is subject field of the message."
+msgstr "En cas de règlement en attente, ou faux, vos clients recevront un message à ce propos. Ceci est le champ de sujet du message"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:397
+msgid "Failed purchasing e-mail body"
+msgstr "Corps du message d'échec de commande"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:398
+msgid "This e-mail message is sent to your customers in case of pending, non-cleared or fake payment. You can use the following keywords: {first_name}, {last_name}, {payer_email}, {product_title}, {product_price}, {product_currency}, {payment_status}."
+msgstr "Ceci est le message envoyé à vos clients en cas de règlement en attente ou faux. Vous pouvez utiliser les balises suivantes : {first_name}, {last_name}, {payer_email}, {product_title}, {product_price}, {product_currency}, {payment_status}."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:401
+msgid "Download link lifetime"
+msgstr "Durée de vie du lien de téléchargement"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:402
+msgid "Please enter period of download link validity."
+msgstr "Merci d'entrer une période de validité du lien de téléchargement"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:405
+msgid "\"Buy Now\" button"
+msgstr "Bouton \"Buy Now\""
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:408
+msgid "Standard HTML-button"
+msgstr "Bouton HTML standard"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:408
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:412
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1845
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1850
+msgid "Buy Now"
+msgstr "Acheter maintenant"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:409
+msgid "Standard PayPal button"
+msgstr "Bouton PayPal standard"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:410
+msgid "CSS3 button"
+msgstr "Bouton CSS3"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:417
+msgid "Custom \"Buy Now\" button"
+msgstr "Bouton \"Buy Now\" personalisé"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:417
+msgid "Max dimensions: 600px x 600px, allowed images: JPG, GIF, PNG."
+msgstr "Dimensions maxi : 600 x 600 pixels, images autorisées : JPG, GIF, PNG."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:422
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1711
+msgid "Terms & Conditions"
+msgstr "Termes & Conditions"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:423
+msgid "Your customers must be agree with Terms & Conditions before purchasing. Leave this field blank if you do not need Terms & Conditions box to be shown."
+msgstr "Vos clients doivent accepter vos Termes & Conditions avant de commander. Laissez ce champ vide si vous n'avez pas besoin de faire valider les Termes & Conditions"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:429
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:457
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:478
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:518
+msgid "Update Settings"
+msgstr "Mise à jour des paramètres"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:436
+msgid "PayPal Settings"
+msgstr "Paramètres PayPal"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:440
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:469
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:490
+msgid "Enable"
+msgstr "Actvier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:441
+msgid "Accept payments via PayPal"
+msgstr "Accepter les paiements via PayPal"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:441
+msgid "Please tick checkbox if you would like to accept payments via PayPal."
+msgstr "Merci de cocher cette case si vous désirez accepter les règlements via PazPal"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:444
+msgid "PayPal ID"
+msgstr "ID PayPal"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:445
+msgid "Please enter valid PayPal e-mail or <a href=\"https://www.paypal.com/webapps/customerprofile/summary.view\" traget=\"_blank\">Merchant ID</a>, all payments are sent to this account."
+msgstr "Merci d'entrer une adresse email PayPal valide ou un <a href=\"https://www.paypal.com/webapps/customerprofile/summary.view\" traget=\"_blank\">ID Marchand</a>, tous les paiement seront envoyés sur ce compte"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:448
+msgid "Enable shipping address"
+msgstr "Activer l'adresse de livraison"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:449
+msgid "Include shipping address into transaction"
+msgstr "Inclure les frais de livraison dans la transaction"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:449
+msgid "Activate this option if you plan to send physical copy of your downloadable product (CD, DVD, etc.). Shipping address is taken from payer PayPal account. You can view shipping address at transaction details page."
+msgstr "Activez cette option si vous projetez d'envoyer une copie physique de votre produit téléchargeable (CD, DVD, etc). L'adresse de livraison est récupérée sur le compte PayPal. Vous pouvez voir l'adresse de livraison dans la page de détails de la transaction. "
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:452
+msgid "Sandbox mode"
+msgstr "Mode Sandbox"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:453
+msgid "Enable PayPal sandbox mode"
+msgstr "Activer le mode Sandbox PayPal"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:453
+msgid "Please tick checkbox if you would like to test PayPal service."
+msgstr "Merci de cocher cette case si vous désirez tester le service PayPal"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:464
+msgid "AlertPay Settings"
+msgstr "Paramètres AlertPay"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:467
+msgid "Please enable CURL on your server to use AlertPay payment method!"
+msgstr "Merci d'activer CURL sur votre serveur pour utiliser la méthode de paiement AlertPay!"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:467
+msgid "IMPORTANT! Set \"IPN Status\" as \"Enabled\" on <a target=\"_blank\" href=\"https://www.alertpay.com/ManageIPN.aspx\">AlertPay IPN Setup</a> page."
+msgstr "IMPORTANT! Définissez \"Statut IPN\" comme \"Activé\" sur la page <a target=\"_blank\" href=\"https://www.alertpay.com/ManageIPN.aspx\">AlertPay IPN Setup</a>."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:470
+msgid "Accept payments via AlertPay"
+msgstr "Accepter les paiements via AlertPay"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:470
+msgid "Please tick checkbox if you would like to accept payments via AlertPay."
+msgstr "Mercid e cocher cette case si vous désirez accepter les règlements via AlertPay"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:473
+msgid "AlertPay ID"
+msgstr "ID AlertPay"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:474
+msgid "Please enter valid AlertPay e-mail, all payments are sent to this account."
+msgstr "Merci d'entrer une adresse email AlertPay valide, tous les paiements seront envoyés à ce compte."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:485
+msgid "InterKassa Settings"
+msgstr "Paramètres InterKassa"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:488
+msgid "Please enable CURL on your server to use InterKassa payment method!"
+msgstr "Merci d'activer CURL sur votre serveur pour utiliser la méthode de règlement InterKassa!"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:488
+msgid "IMPORTANT! Register your shop on <a target=\"_blank\" href=\"https://interkassa.com/managment.php\">InterKassa Shop Management</a> page."
+msgstr "IMPORTANT! Enregistrez votre boutique sur la page <a target=\"_blank\" href=\"https://interkassa.com/managment.php\">InterKassa Shop Management</a>"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:491
+msgid "Accept payments via InterKassa"
+msgstr "Accepter les paiements via InterKassa"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:491
+msgid "Please tick checkbox if you would like to accept payments via InterKassa."
+msgstr "Merci de cocher cette case si vous désirez accepter les paiements via InterKassa"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:494
+msgid "Shop ID"
+msgstr "ID boutique"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:495
+msgid "Please enter valid InterKassa shop ID. Ex.: 64C18529-4B94-0B5D-7405-F2752F2B716C"
+msgstr "Merci d'entrer un ID de boutique InterKassa valide. Ex.: 64C18529-4B94-0B5D-7405-F2752F2B716C"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:498
+msgid "Currency"
+msgstr "Monnaie"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:508
+msgid "Set the currency of InterKassa shop. You can get it on <a target=\"_blank\" href=\"https://interkassa.com/managment.php\">shop settings</a> page. If this currency differs from currency of product, product price is converted into this currency."
+msgstr "Définissez la monnaie de votre boutique InterKassa. Vous pouvez le trouver sur la page <a target=\"_blank\" href=\"https://interkassa.com/managment.php\">shop settings</a>. Si cette monnaie diffère de la monnaie du produit, le prix du produit sera converti dans cette monnaie."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:513
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:514
+msgid "Please enter Secret Key. You can get it on <a target=\"_blank\" href=\"https://interkassa.com/managment.php\">shop settings</a> page."
+msgstr "Merci d'entrer votre clé secrète. Vous pouvez la trouver sur la page <a target=\"_blank\" href=\"https://interkassa.com/managment.php\">shop settings</a>."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:552
+msgid "Paid Downloads - Files"
+msgstr "FilesPaid Downloads - Fichiers"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:556
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:898
+msgid "Search:"
+msgstr "Rechercher :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:557
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:899
+msgid "Search"
+msgstr "Rechercher"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:558
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:900
+msgid "Reset search results"
+msgstr "Réinitialisation des résultats de recherche"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:560
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:603
+msgid "Upload New File"
+msgstr "Envoyer un nouveau fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:564
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:661
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:758
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:842
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:905
+msgid "File"
+msgstr "Fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:565
+msgid "Short Code"
+msgstr "ShortCode"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:566
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:676
+msgid "Price"
+msgstr "Prix"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:567
+msgid "Sales"
+msgstr "Ventes"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:568
+msgid "Operations"
+msgstr "Opérations"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:584
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:607
+msgid "Edit file details"
+msgstr "Modifer les détails du fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:585
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:608
+msgid "Generate temporary download link"
+msgstr "Générer un lien temporaire de téléchargement"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:586
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:609
+msgid "Issued download links"
+msgstr "Liens de téléchargements générés"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:587
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:610
+msgid "Payment transactions"
+msgstr "Transactions de paiement"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:588
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:611
+msgid "Download file"
+msgstr "Téléchargement du fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:589
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:612
+msgid "Delete file"
+msgstr "Suppression du fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:598
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:930
+msgid "No results found for"
+msgstr "Aucun résultat trouvé pour"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:598
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:790
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:930
+msgid "List is empty."
+msgstr "La liste est vide."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:606
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:798
+msgid "Legend:"
+msgstr "Légende :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:609
+msgid "Show issued download links"
+msgstr "Bouton \"Acheter maintenant\""
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:610
+msgid "Show payment transactions"
+msgstr "Afficher les transactions de paiement"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:645
+msgid "Paid Downloads - Edit file"
+msgstr "Paid Downloads - Modification du fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:645
+msgid "Paid Downloads - Upload new file"
+msgstr "Pais Downloads - Envoi de nouveau fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:653
+msgid "Edit file"
+msgstr "Modifier le fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:653
+msgid "Upload new file"
+msgstr "Envoyer un nouveau fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:657
+msgid "Title"
+msgstr "Titre"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:658
+msgid "Enter the title of file. If you leave this field blank, then original file name will be the title."
+msgstr "Entrez le titre du fichier. Si vous laissez ce champ vide, alors le nom original du fichier sera son titre."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:664
+msgid "Select available file"
+msgstr "Choix parmi les fichiers disponibles"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:671
+msgid "Select any available file from folder <strong>/wp-content/uploads/paid-downloads/files/</strong> or upload new file below."
+msgstr "Paid Downloads - Settings"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:672
+msgid "Choose file to upload."
+msgstr "Choisissez un fichier à envoyer"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:688
+msgid "Set the price of file or leave this field blank (or set 0) for free downloading."
+msgstr "Définissez le prix ou laissez le champ vide (ou à 0) pour les téléchargements gratuits"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:692
+msgid "Available copies"
+msgstr "Copies disponibles"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:693
+msgid "Set how many copies of the file you would like to sell. After selling this number of copies, \"Buy now\" button for the file will not be displayed. Leave this field blank (or set 0) if you wish to sell unlimited number of copies. This field is ignored if you distribute the file freely."
+msgstr "Définissez combien de copies de ce fichier vous désirez vendre. Après avoir vendu ce nombre de copies, le bouton \"Acheter Maintenant\" ne sera plus affiché. Laissez ce champ vide (ou à 0) si vous désirez vendre un nombre illimité de copies. Ce champ est ignoré si vous fournissez ce fichier gratuitement."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:696
+msgid "License URL"
+msgstr "URL de License"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:697
+msgid "This URL is used to generate license information for sold files (if required). After successfull payment PayPal/AlertPay IPN data might be POST-ed to this URL. All returned content is included into <strong>successfull purchasing e-mail body</strong> under {license_info} keyword. Leave this field blank if you do not need to generate license info. This field is only available if CURL installed on your server."
+msgstr "This URL is used to generate license information for sold files (if required). After successfull payment PayPal/AlertPay IPN data might be POST-ed to this URL. All returned content is included into <strong>successfull purchasing e-mail body</strong> under {license_info} keyword. Leave this field blank if you do not need to generate license info. This field is only available if CURL installed on your server."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:703
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:862
+msgid "Submit details"
+msgstr "Envoyer les détails"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:721
+msgid "Supported payment methods:"
+msgstr "Méthodes de paiement supportées :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:750
+msgid "Paid Downloads - Temporary Links"
+msgstr "Paid Downloads - Liens Temporaires"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:752
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:795
+msgid "Add New Link"
+msgstr "Ajout d'un lien"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:756
+msgid "Download Link"
+msgstr "Lien de téléchargement"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:757
+msgid "Owner"
+msgstr "Propriétaire"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:759
+msgid "Source"
+msgstr "Source"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:760
+msgid "Delete"
+msgstr "Supprimer"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:781
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:799
+msgid "Delete download link"
+msgstr "Supprimer le lien de téléchargement"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:801
+msgid "Active link"
+msgstr "Lien Actif"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:802
+msgid "Expired link"
+msgstr "Lien Expiré"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:822
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:830
+msgid "Paid Downloads - Add temporary link"
+msgstr "Paid Downloads - Ajout de lien temporaire"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:823
+msgid "Please uplad at least one file first."
+msgstr "Merci d'envoyer au minium un fichier avant."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:838
+msgid "Add temporary link"
+msgstr "Ajout de lien temporaire"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:845
+msgid "Select file"
+msgstr "Choix du fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:852
+msgid "Select any uploaded file."
+msgstr "Choisissez un fichier envoyé"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:856
+msgid "Link owner"
+msgstr "Propriétaire du lien"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:857
+msgid "Please enter e-mail for which you are generating the link."
+msgstr "Merci d'entrer l'email pour celui qui a généré le lien."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:894
+msgid "Paid Downloads - Transactions"
+msgstr "Paid Downloads - Transactions"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:906
+msgid "Payer"
+msgstr "Acheteur"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:907
+msgid "Amount"
+msgstr "Montant"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:908
+msgid "Status"
+msgstr "Statut"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:909
+msgid "Created"
+msgstr "Création"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:962
+msgid "Custom \"Buy Now\" button has invalid image type"
+msgstr "Le bouton personnalisé \"Acheter maintenant\" a un type d'image non valide"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:966
+msgid "Custom \"Buy Now\" button has invalid image dimensions"
+msgstr "Le bouton personnalisé \"Acheter maintenant\" a une dimension d'image non valide"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:990
+msgid "Due to \"Buy Now\" image problem \"Buy Now\" button was set to Standard HTML button."
+msgstr "A cause d'un problème avec l'image du bouton \"Acheter maintenant\" il a été remplacé par le bouton HTML standard"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1003
+msgid "The following error(s) occured:"
+msgstr "Il y a eu au moins une erreur :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1037
+msgid "Unable to save uploaded file on server"
+msgstr "Impossible d'enregistrer le fichier sur le serveur"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1054
+msgid "You must select or upload file"
+msgstr "Vous devez choisir ou envoyer un fichier"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1071
+msgid "File successfully updated"
+msgstr "Fichier mis à jour avec succès"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1075
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1098
+msgid "Service is not available"
+msgstr "Service non disponible"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1094
+msgid "File successfully added"
+msgstr "Fichier ajouté avec succès"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1108
+msgid "Link owner must be valid e-mail address."
+msgstr "Le propriétaire du lien doit avoir une adresse email valide"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1115
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1168
+msgid "Invalid service call."
+msgstr "Appel non-valide de service"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1120
+msgid "Temporary download link successfully created."
+msgstr "Lien temporaire de téléchargement crée avec succès."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1132
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1149
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1158
+msgid "Invalid service call"
+msgstr "Appel non-valide de service"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1145
+msgid "File successfully removed"
+msgstr "Fichier supprimé avec succès"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1164
+msgid "Temporary download link successfully removed."
+msgstr "Lien temporaire de téléchargement supprimé avec succès"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1217
+msgid "<strong>Paid Downloads plugin almost ready.</strong> You must do some <a href=\"admin.php?page=paid-downloads\">settings</a> for it to work."
+msgstr "<strong> L'extension Paid Downloads est prête.</strong> Vous devez effectuer quelques <a href=\"admin.php?page=paid-downloads\">paramétrages</a> pour qu'il fonctionne."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1223
+msgid "<strong>Please deactivate Paid Downloads plugin and activate it again.</strong> If you already done that and see this message, please create the folder \"/wp-content/uploads/paid-downloads/files/\" manually and set permission 0777 for this folder."
+msgstr "<strong>Merci de désactiver l'extension Paid Downloads puis de la réactiver.</strong> Si vous l'avez déjà fait et que vous voyez encore ce message, merci de créer le répertoire  \"/wp-content/uploads/paid-downloads/files/\" manuellement et de définir ses permissions en 0777 (CHMOD)"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1250
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1251
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1253
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1258
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1260
+msgid "Invalid download link"
+msgstr "Lien de téléchargement non valide"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1261
+msgid "Download link was expired"
+msgstr "Le lien de téléchargement a expiré"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1266
+msgid "File not found"
+msgstr "Fichier non trouvé"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1369
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1384
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1485
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1500
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1590
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1605
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1623
+msgid "Dear Administrator!"
+msgstr "Cher administrateur!"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1369
+msgid "We would like to inform you that {first_name} {last_name} ({payer_email}) purchased {product_title} via AlertPay on {transaction_date}. The buyer received the following download link:"
+msgstr "Nous désirons vous informer que {first_name} {last_name} ({payer_email}) a commandé {product_title} via AlertPay le {transaction_date}. L'acheteur recevra le lien de téléchargement suivant :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1369
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1485
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1590
+msgid "This link is valid {download_link_lifetime} day(s) only."
+msgstr "Ce lien est valide {download_link_lifetime} jour(s) seulement."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1373
+msgid "Completed AlertPay payment received"
+msgstr "Paiement complet AlertPay reçu"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1384
+msgid "We would like to inform you that {first_name} {last_name} ({payer_email}) paid for {product_title} via AlerPay on {transaction_date}. This is non-completed payment."
+msgstr "Nous désirons vous informer que {first_name} {last_name} ({payer_email}) a commandé {product_title} via AlerPay le {transaction_date}. Ceci est un paiement non complété."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1384
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1500
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1623
+msgid "Payment ststus: {payment_status}"
+msgstr "Staut du paiement : {payment_status}"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1384
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1500
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1623
+msgid "Download link was not generated."
+msgstr "Lien de téléchargement non généré"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1388
+msgid "Non-completed AlertPay payment received"
+msgstr "Paiement AlertPay incomplet"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1485
+msgid "We would like to inform you that {first_name} {last_name} ({payer_email}) purchased {product_title} via InterKassa on {transaction_date}. The buyer received the following download link:"
+msgstr "Nous désirons vous informer que {first_name} {last_name} ({payer_email}) a commandé {product_title} via InterKassa le {transaction_date}. L'acheteur a reçu le lien de téléchargement suivant :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1489
+msgid "Completed InterKassa payment received"
+msgstr "Paiement InterKassa complet reçu"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1500
+msgid "We would like to inform you that {first_name} {last_name} ({payer_email}) paid for {product_title} via InterKassa on {transaction_date}. This is non-completed payment."
+msgstr "Nous désirons vous informer que  {first_name} {last_name} ({payer_email}) a commandé {product_title} via InterKassa le {transaction_date}. L'acheteur a reçu le lien de téléchargement suivant :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1504
+msgid "Non-completed InterKassa payment received"
+msgstr "Paiement InterKassa reçu non-complet"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1590
+msgid "We would like to inform you that {first_name} {last_name} ({payer_email}) purchased {product_title} via PayPal on {transaction_date}. The buyer received the following download link:"
+msgstr "Nous désirons vous informer que  {first_name} {last_name} ({payer_email}) a commandé {product_title} via PayPal le {transaction_date}. L'acheteur a reçu le lien de téléchargement suivant :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1594
+msgid "Completed PayPal payment received"
+msgstr "Paiement PayPal complet reçu"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1605
+msgid "We would like to inform you that {first_name} {last_name} ({payer_email}) purchased {product_title} via PayPal on {transaction_date}. The buyer did not receive download link because his/her account is not verified with PayPal. Please contact buyer and send download link manually."
+msgstr "Nous désirons vous informer que {first_name} {last_name} ({payer_email}) a commandé {product_title} via PayPal le {transaction_date}. L'acheteur n'a pas reçu de lien de téléchargement car son compte PayPal n'est pas vérifié. Merci de contacter l'acheteur et de lui envoyer le lien de téléchargement manuellement."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1609
+msgid "Completed PayPal payment received from unverified customer"
+msgstr "Paiement PayPal complet reçu d'un client non vérifié"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1623
+msgid "We would like to inform you that {first_name} {last_name} ({payer_email}) paid for {product_title} via PayPal on {transaction_date}. This is non-completed payment."
+msgstr "Nous désirons vous informer que  {first_name} {last_name} ({payer_email}) a commandé {product_title} via PayPal le {transaction_date}. Ceci est un paiement incomplet."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1627
+msgid "Non-completed PayPal payment received"
+msgstr "Paiement Paypal incomplet reçu"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1656
+msgid "Download"
+msgstr "Téléchargement"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1711
+msgid "By clicking the button below, I agree with the"
+msgstr "En cliquant sur le bouton ci-dessous, j'accepte les"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1723
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1729
+msgid "Please enter valid e-mail. Download link will be sent to this e-mail address."
+msgstr "Merci d'entrer un email valide. Le lien de téléchargement sera envoyé à cette adresse."
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1817
+msgid "Enter your e-mail here"
+msgstr "Merci d'entrer votre email ici"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1878
+msgid "Pages:"
+msgstr "Pages :"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1940
+msgid "days"
+msgstr "jours"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1941
+msgid "day"
+msgstr "jour"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1942
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1944
+msgid "hours"
+msgstr "heures"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1943
+msgid "hour"
+msgstr "heure"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1945
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1947
+msgid "minutes"
+msgstr "minutes"
+
+#: /home/ichurakov/www/test1.ru/wp02/wp-content/plugins/paid-downloads/paid-downloads.php:1946
+msgid "minute"
+msgstr "minute"
+
